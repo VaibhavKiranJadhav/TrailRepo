@@ -79,7 +79,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>extid__c</fullName>
+        <fullName>extid1__c</fullName>
         <externalId>true</externalId>
         <label>extid</label>
         <length>20</length>
