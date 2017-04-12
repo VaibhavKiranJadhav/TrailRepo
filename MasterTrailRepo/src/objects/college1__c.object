@@ -100,7 +100,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>mobile__c</fullName>
+        <fullName>mobile1__c</fullName>
         <externalId>false</externalId>
         <label>mobile</label>
         <required>false</required>

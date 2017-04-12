@@ -67,7 +67,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Capitated_Plan__c</fullName>
+        <fullName>Capitated_Plantest__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
         <label>Capitated Plan</label>

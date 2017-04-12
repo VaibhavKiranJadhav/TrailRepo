@@ -67,7 +67,7 @@
     <fields>
         <fullName>Job_Description__c</fullName>
         <externalId>false</externalId>
-        <label>Job Description 123</label>
+        <label>Job Description Test</label>
         <required>true</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
