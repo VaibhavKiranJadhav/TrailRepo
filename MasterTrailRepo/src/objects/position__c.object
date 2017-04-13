@@ -140,7 +140,7 @@
         <type>Picklist</type>
     </fields>
     <fields>
-        <fullName>date_opened__c</fullName>
+        <fullName>date_opened1__c</fullName>
         <externalId>false</externalId>
         <label>date opened</label>
         <required>true</required>
